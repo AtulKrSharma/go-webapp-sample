@@ -5,6 +5,7 @@
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
   <version>21.0-SNAPSHOT</version>
+
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -44,7 +45,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/AtulKrSharma/my-maven-demo</url>
+            <url>https://maven.pkg.github.com/AtulKrSharma/go-webapp-sample</url>
         </repository>
     </distributionManagement>
 
