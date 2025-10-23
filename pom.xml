@@ -44,7 +44,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/AtulKrSharma/my-maven-demo</url>
+            <url>https://maven.pkg.github.com/AtulKrSharma/go-webapp-sample</url>
         </repository>
     </distributionManagement>
 
